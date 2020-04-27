@@ -4,7 +4,7 @@ output:
   revealjs::revealjs_presentation:
     self_contained: false
     lib_dir: libs
-    theme: blue
+    theme: solarized
     viewDistance: 12
     mobileViewDistance: 12
 autosize: true
