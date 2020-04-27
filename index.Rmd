@@ -1,0 +1,58 @@
+---
+title: "Laura and Jack's movie poster round"
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    lib_dir: libs
+    theme: blue
+    viewDistance: 12
+    mobileViewDistance: 12
+autosize: true
+---
+
+## Rules
+
+- One point for the movie
+
+
+<br /><br />
+
+
+## Question 1
+<img src="1.jpeg"></img>
+
+## Question 2
+<img src="2.jpeg"></img>
+
+## Question 3
+<img src="3.jpeg"></img>
+
+
+## Question 4
+<img src="4.jpeg"></img>
+
+
+## Question 5
+<img src="5.jpeg"></img>
+
+
+## Question 6
+<img src="6.jpeg"></img>
+
+
+## Question 7
+<img src="7.jpeg"></img>
+
+
+## Question 8
+<img src="8.jpeg"></img>
+
+
+## Question 9
+<img src="9.jpeg"></img>
+
+
+## Question 10
+<img src="10.jpeg"></img>
+
+
