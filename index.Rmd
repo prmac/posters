@@ -19,11 +19,7 @@ autosize: true
 
 
 ## Question 1
-<section>
-	<img class="fragment fade-out" src="1.jpeg" width ="300">
-    <img class="fragment fade-in"  src="1a.jpeg" width ="300">
-</section>
-
+<img src="1.jpeg" height="60%" width ="60%"></img>
 
 ## Question 2
 <img src="2.jpeg" height="60%" width ="60%"></img>
